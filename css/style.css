@@ -1,16 +1,20 @@
-*{
-  margin: 0;
-	padding: 0;
+* {
+  margin: 1% 0;
+  padding: 0;
   box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+  text-align: center;
   align-items: center;
+  flex-direction: column;
   justify-content: center;
-  margin: 1% 0;
   font-family: "Fredericka the Great", serif;
 }
 
-img{
+div {
+  display: flex;
+}
+
+img {
   display: block;
   margin: 0 auto;
   max-width: 500px;
