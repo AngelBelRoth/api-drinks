@@ -1,22 +1,9 @@
-# 📊 Project: Simple API 2
+# Cheers!
 
-### Goal: Display data returned from an api
+**Cheers!** is a simple project that fetches and displays data from a public drink API.</br>
+Displays drink names, images, ingredients and instruction on a web page.</br>
+The core goal is to demonstrate retrieving JSON from an external endpoint and rendering it in a user-friendly web interface.
 
-### How to submit your code for review:
+---
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+<img width="1600" height="761" alt="Screenshot 2025-11-10 at 12 17 38" src="https://github.com/user-attachments/assets/8db4bdc6-65ea-44e6-a007-ab692d1c2f29" />
